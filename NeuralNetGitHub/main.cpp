@@ -4,6 +4,7 @@
 #include <SFML/Window.hpp>
 #include <SFML/System.hpp>
 
+//Version 0.5.0
 
 int main()
 {
